@@ -9,14 +9,15 @@ Welcome to EGY GYM APP. This Privacy Policy explains how we collect, use, and pr
 
 We may collect:
 
-Name
-Email
-Body data (weight, height, body fat)
-Fitness progress
-Exercise records
-Progress photos
-Messages with trainers
-Basic device information
+* Name
+* Email
+* Body data (weight, height, body fat)
+* Fitness progress
+* Exercise records
+* Progress photos
+* Messages with trainers
+* Basic device information
+
 2. User Content
 
 Users can upload fitness-related data. All content is voluntary, and the user is responsible for its accuracy.
@@ -43,11 +44,11 @@ All payments are handled outside the app directly between the user and the gym.
 
 8. Data Protection
 
-We implement security measures but cannot guarantee 100% safety.
+We implement reasonable security measures to protect user data, but we cannot guarantee 100% security of information transmitted through the internet.
 
 9. Account Responsibility
 
-Users must protect their login data.
+Users are responsible for maintaining the confidentiality of their login credentials and account information.
 
 10. Children
 
@@ -55,11 +56,19 @@ The application is not intended for users under 18 without parental supervision.
 
 11. Updates
 
-Policy may change and will be updated inside the app.
+This Privacy Policy may be updated from time to time. Any changes will be reflected inside the application and on the official policy page.
 
 12. Account Deletion
 
-Users can request account deletion by contacting support. All personal data will be removed upon request.
+Users can request account deletion by contacting support. Personal data will be permanently deleted or anonymized within 30 days of the verified request, unless retention is required by law.
+
+13. Data Retention
+
+We retain user personal data only for as long as necessary to provide the services of the application, maintain user accounts, improve the platform, comply with legal obligations, and resolve disputes.
+
+Account-related information and fitness records are generally retained while the user account remains active.
+
+If a user requests account deletion, personal data will be permanently deleted or anonymized within 30 days, unless a longer retention period is required by law or for legitimate business purposes such as fraud prevention or dispute resolution.
 
 Terms & Conditions
 
@@ -71,40 +80,41 @@ Using the app means you agree to these terms.
 
 2. Services
 
-Workout tracking, videos, progress tracking, and trainer communication.
+The application provides workout tracking, fitness progress monitoring, educational fitness videos, and communication between users and trainers.
 
 3. Health Disclaimer
 
-Always consult a doctor before starting any workout. The app is not responsible for injuries or damages.
+Always consult a doctor before starting any workout or nutrition program. EGY GYM APP is not responsible for injuries, health issues, or damages resulting from the use of the application or exercise programs.
 
 4. User Content
 
-Users are responsible for any content they upload.
+Users are solely responsible for any content, images, or information they upload through the application.
 
 5. Trainer Relationship
 
-The app is only a platform. Trainers and gyms operate independently.
+EGY GYM APP acts only as a platform connecting users with trainers and gyms. Trainers and gyms operate independently and are fully responsible for their services.
 
 6. Payments
 
-All payments are handled outside the app.
+All payments are handled outside the application directly between users and gyms or trainers.
 
 7. Intellectual Property
 
-All rights reserved. Copying or cloning the app is strictly prohibited.
+All application content, branding, logos, and software are protected by intellectual property laws. Copying, modifying, distributing, or cloning the application is strictly prohibited without written permission.
 
 8. Account Suspension
 
-We can suspend violating accounts.
+We reserve the right to suspend or terminate accounts that violate these terms or misuse the platform.
 
 9. Liability
 
-The app is provided “as is” without warranties.
+The application is provided “as is” without warranties of any kind. We are not liable for service interruptions, data loss, injuries, or damages arising from the use of the application.
 
 10. Updates
 
-Terms may change anytime. Continued use indicates acceptance.
+These Terms & Conditions may be updated at any time. Continued use of the application after updates constitutes acceptance of the revised terms.
 
 11. Contact
 
-Contact us via WhatsApp 201017731976
+For support or inquiries, contact us via WhatsApp:
++20 101 773 1976
